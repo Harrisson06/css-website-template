@@ -9,7 +9,7 @@ export default function AboutMe({ setTitle }) {
 
     return (
         <>
-
+            Boring actually.
         </>
     )
 }
